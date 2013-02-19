@@ -1,0 +1,3 @@
+JavaApplicationTest
+===================
+Test
